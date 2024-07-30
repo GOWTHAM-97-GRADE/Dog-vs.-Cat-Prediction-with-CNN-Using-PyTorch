@@ -116,3 +116,7 @@ python your_script_name.py
 
 This implementation follows best practices for image classification using CNNs and PyTorch. Special thanks to the PyTorch documentation and tutorials that provided foundational knowledge.
 
+
+## Dataset
+- [Kaggle Dogs vs. Cats Dataset](https://www.kaggle.com/c/dogs-vs-cats/data?select=train.zip)
+
