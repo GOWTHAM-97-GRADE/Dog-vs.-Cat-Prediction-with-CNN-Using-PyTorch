@@ -2,6 +2,9 @@
 
 A PyTorch-based implementation of a Convolutional Neural Network (CNN) for predicting whether an image contains a dog or a cat. The project includes data preprocessing, CNN model definition, training, evaluation, and saving the trained model.
 
+## Dataset
+- [Kaggle Dogs vs. Cats Dataset](https://www.kaggle.com/c/dogs-vs-cats/data?select=train.zip)
+  
 ## Overview
 
 This repository contains a PyTorch implementation of a CNN designed to classify images into two categories: dogs and cats. The project includes data preparation, model definition, training, and evaluation scripts.
@@ -115,8 +118,4 @@ python your_script_name.py
 ## Acknowledgments
 
 This implementation follows best practices for image classification using CNNs and PyTorch. Special thanks to the PyTorch documentation and tutorials that provided foundational knowledge.
-
-
-## Dataset
-- [Kaggle Dogs vs. Cats Dataset](https://www.kaggle.com/c/dogs-vs-cats/data?select=train.zip)
 
